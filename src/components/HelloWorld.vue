@@ -6,7 +6,7 @@
     <br>
     I strive to create visually compelling interfaces that are intuitive and easy to navigate on mobile and desktop screens. 
     <br> This site is still under construction 🚧, but you can view the projects I've worked on here:
-      <a href="https://designgawd.notion.site/My-name-is-Tomiwa-Ajiboye-299b5aae25e34bc6bcc75c9ffe4a5648" target="_blank" rel="noopener">Notion Portfolio</a>.
+      <a href="https://designgawd.notion.site/My-name-is-Tomiwa-Ajiboye-299b5aae25e34bc6bcc75c9ffe4a5648" target="_blank" rel="noopener">Portfolio</a>.
     </p>
     
     <h3>Connect with me</h3>
